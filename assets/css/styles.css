@@ -158,6 +158,10 @@ section.intro strong {
 	color: var(--clr-black);
 }
 
+.text-white {
+	color: white!important;
+}
+
 p {
 	margin-bottom: unset;
 	color: var(--clr-black)!important;
