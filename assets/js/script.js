@@ -118,7 +118,7 @@ $(document).ready(function () {
 
     for (var i = 0; i < myPortfolio.length; i++){
         $("#my-portfolio").append(
-            `<div class="card" >
+            `<div class="card" data-aos="fade-up">
                 <div class="card-body">
                     <div class="w-100 py-3">
                         <img class="w-25" src="`+myPortfolio[i].img+`">
