@@ -44,7 +44,7 @@ $(document).ready(function () {
         {
             img: "assets/img/project/bayaryuk/bayaryuk.png",
             desc: 
-                `<p class="text-body"><b>BayarYuk!</b> adalah sebuah aplikasi berbasis web untuk pendataan pembayaran spp yang umumnya dilakukan dalam metode tulis manual. Web ini juga dapat digunakan untuk melakukan pendataan siswa dan kelas.</p>
+                `<p class="port-text-body"><b>BayarYuk!</b> adalah sebuah aplikasi berbasis web untuk pendataan pembayaran spp yang umumnya dilakukan dalam metode tulis manual. Web ini juga dapat digunakan untuk melakukan pendataan siswa dan kelas.</p>
                 <div class="row">
                     <div class="col-lg-12 py-3">
                         <img src="assets/img/project/bayaryuk/login.png" alt="" class="w-100">
@@ -63,7 +63,7 @@ $(document).ready(function () {
                     </div>
                 </div>`,
             feature: 
-                `<p class="text-subtitle pb-2">Beberapa fitur diantaranya :</p>
+                `<p class="port-text-subtitle pb-2">Beberapa fitur diantaranya :</p>
                 <ol>
                     <li>Data Siswa - CRUD (Admin)</li>
                     <li>Data Kelas - CRUD (Admin)</li>
@@ -73,7 +73,7 @@ $(document).ready(function () {
                     <li>Lihat Riwayat Pembayaran (Admin, Petugas dan Siswa)</li>
                 </ol>`,
             createdby: 
-                `<p class="text-subtitle pb-2">Aplikasi ini dibuat menggunakan :</p>
+                `<p class="port-text-subtitle pb-2">Aplikasi ini dibuat menggunakan :</p>
                 <ul>
                     <li>Laravel 6.0</li>
                     <li>MYSQL Database</li>
@@ -82,7 +82,7 @@ $(document).ready(function () {
         }, {
             img: "assets/img/project/formom/formom.png",
             desc:
-                `<p class="text-body"><b>For Mom's</b> adalah sebuah aplikasi mobile untuk memudahkan orangtua dalam memantau perkembangan buah hati</p>
+                `<p class="port-text-body"><b>For Mom's</b> adalah sebuah aplikasi mobile untuk memudahkan orangtua dalam memantau perkembangan buah hati</p>
                 <div class="row">
                     <div class="col-lg-3 py-3">
                         <img src="assets/img/project/formom/home.png" alt="" class="w-100">
@@ -98,14 +98,14 @@ $(document).ready(function () {
                     </div>
                 </div>`,
             feature: 
-                `<p class="text-subtitle pb-2">Beberapa fitur diantaranya :</p>
+                `<p class="port-text-subtitle pb-2">Beberapa fitur diantaranya :</p>
                 <ol>
                     <li>Care</li>
                     <li>Memories (Galeri)</li>
                     <li>Jadwal Imunisasi</li>
                 </ol>`,
             createdby:
-                `<p class="text-subtitle pb-2">Aplikasi ini dibuat menggunakan :</p>
+                `<p class="port-text-subtitle pb-2">Aplikasi ini dibuat menggunakan :</p>
                 <ul>
                     <li>Java</li>
                     <li>Firebase Database</li>

@@ -138,28 +138,24 @@ section.intro strong {
 
 /* Component - Text */
 
-.text-title {
+.port-text-title {
 	font: var(--txt-title);
 	color: var(--clr-black);
 }
 
-.text-subtitle {
+.port-text-subtitle {
 	font: var(--txt-subtitle);
 	color: var(--clr-black);
 }
 
-.text-callout {
+.port-text-callout {
 	font: var(--txt-callout);
 	color: var(--clr-black);
 }
 
-.text-body {
+.port-text-body {
 	font: var(--txt-body);
 	color: var(--clr-black);
-}
-
-.text-white {
-	color: white!important;
 }
 
 p {
