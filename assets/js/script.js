@@ -84,17 +84,20 @@ $(document).ready(function () {
             desc:
                 `<p class="port-text-body"><b>For Mom's</b> adalah sebuah aplikasi mobile untuk memudahkan orangtua dalam memantau perkembangan buah hati</p>
                 <div class="row">
-                    <div class="col-lg-3 py-3">
+                    <div class="col-4 col-lg-3 py-3">
                         <img src="assets/img/project/formom/home.png" alt="" class="w-100">
                     </div>
-                    <div class="col-lg-3 py-3">
+                    <div class="col-4 col-lg-3 py-3">
                         <img src="assets/img/project/formom/care.png" alt="" class="w-100">
                     </div>
-                    <div class="col-lg-3 py-3">
+                    <div class="col-4 col-lg-3 py-3">
                         <img src="assets/img/project/formom/detail.png" alt="" class="w-100">
                     </div>
-                    <div class="col-lg-3 py-3">
+                    <div class="col-4 col-lg-3 py-3">
                         <img src="assets/img/project/formom/memo.png" alt="" class="w-100">
+                    </div>
+                    <div class="col-4 col-lg-3 py-3">
+                        <img src="assets/img/project/formom/imunisasi.png" alt="" class="w-100">
                     </div>
                 </div>`,
             feature: 

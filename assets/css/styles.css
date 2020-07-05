@@ -32,6 +32,10 @@ body {
 		width: 500px;
 		padding-right: 50px;
 	}
+
+	section.intro .container {
+		padding: 8.125rem 1rem;
+	}
 }
 
 @media (min-width: 769px) and (max-width:992px) {
@@ -39,17 +43,49 @@ body {
 		width: 400px;
 		padding-right: 50px;
 	}
+
+	section.intro .container {
+		padding: 8.125rem 1rem;
+	}
 }
 
 @media (min-width: 577px) and (max-width:768px) {
 	.img-vector {
 		width: 300px;
+		padding-bottom: 2rem;
+	}
+
+	.btn-hireme, .btn-seecv {
+		width: 100%;
+	}
+
+	.col-hire, .col-cv {
+		padding-top: .5rem;
+		padding-bottom: .5rem;
+	}
+
+	section.intro .container {
+		padding: 8.125rem 1rem;
 	}
 }
 
 @media (min-width: 361px) and (max-width:576px) {
 	.img-vector {
 		width: 300px;
+		padding-bottom: 2rem;
+	}
+
+	.btn-hireme, .btn-seecv {
+		width: 100%;
+	}
+
+	.col-hire, .col-cv {
+		padding-top: .5rem;
+		padding-bottom: .5rem;
+	}
+
+	section.intro .container {
+		padding: 4rem 1rem!important;
 	}
 }
 
